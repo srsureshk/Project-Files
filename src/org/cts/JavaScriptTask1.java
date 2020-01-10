@@ -26,6 +26,8 @@ public class JavaScriptTask1 {
 		WebElement txtGreensReview = driver.findElement(By.xpath("//div/child::br/preceding-sibling::h2[text() = 'Greens Technologys Overall Reviews']"));
 		
 		System.out.println(txtGreensReview.getText());
+		System.out.println("hi");
+		System.out.println("hi");
 		
 		
 	}
